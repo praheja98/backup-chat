@@ -1,0 +1,117 @@
+a#logout {
+  margin-left: 90%;
+  color: white;
+  border-radius: 20px;
+  padding: 16px;
+  border: 2px solid black;
+  background-color: darkcyan;
+}
+
+ul {
+  background-color: bisque;
+    border-radius: 20px;
+    padding: 20px;
+
+    font-size: 20px;
+}
+
+.editingInnerList{
+  border:2px solid black;
+  padding:5px;
+}
+
+
+ul li{
+  list-style:none;
+}
+
+
+.form-container {
+    border: 1px solid black;
+    width: 500px;
+    height: 332px;
+    margin: 0px auto;
+}
+
+.form-container {
+    /* margin-top: 50%; */
+    background-color: grey;
+}
+
+.form-group {
+    margin-top: 7px;
+    color: white;
+    font-size: 24px;
+}
+
+body {
+    background-color: rgb(176,196,222);
+}
+
+.forminner-container {
+    margin-top: 100px;
+    margin-left: 40px;
+}
+
+input.btn.btn-primary {
+    margin-left: 32%;
+    margin-top: 60px;
+}
+
+input.btn.btn-primary {
+    padding: 20px;
+    width: 100px;
+    background-color: rgb(176,196,222);
+}
+
+.nav{
+display:inline;
+margin-left:200px;
+}
+
+div#container {
+  border: 2px solid black;
+  background-color: beige;
+  width: 500px;
+  margin: 0px auto;
+  margin-top: 100px;
+  height: 350px;
+}
+
+.commonEdit {
+}
+
+.commonEdit {
+  margin-top: 50px;
+}
+
+body {
+  background-color: aliceblue;
+}
+
+.headerForName.commonEdit {
+  font-size: 30px;
+}
+
+.headerForPassword.commonEdit {
+  font-size: 30px;
+}
+
+label {}
+
+.headerForRePassword.commonEdit {
+  font-size: 30px;
+}
+
+input.btnSubmit {
+background-color: azure;
+margin: 0px auto;
+display: block;
+margin-top: 38px;
+padding: 15px;
+}
+#footer{
+  color:white;
+  font-size:20px;
+  margin-left:40px;
+}
